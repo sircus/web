@@ -1,0 +1,14 @@
+{
+  "name": "sircus-web-source",
+  "version": "0.0.0",
+  "description": "A Scalable CSS For People Who Make Web Together.",
+  "author":"blivesta",
+  "homepage":"http://sircus.blivesta.com",
+  "license":"MIT",
+  "devDependencies": {
+    "browser-sync": "^2.2.1",
+    "gulp": "^3.8.10",
+    "gulptasks":"^0.10.0",
+    "run-sequence": "^1.0.2",
+  }
+}
